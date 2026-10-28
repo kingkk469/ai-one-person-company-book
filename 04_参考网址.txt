@@ -1,0 +1,114 @@
+﻿随书参考网址
+整理日期：2026年10月28日
+
+第4章 LLM Wiki
+安德烈·卡帕西 LLM Wiki原文
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+第6章 6.1 AI办公：用AI处理Excel表格
+UCI数据页
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+第6章 6.1 AI办公：用AI处理Excel表格
+UCI原始下载包
+https://archive.ics.uci.edu/static/public/352/online+retail.zip
+
+第6章 6.4 AI详情页：需求分析与模型选择
+OpenAI图像与视觉
+https://developers.openai.com/api/docs/guides/images-vision
+
+第6章 6.4 AI详情页：需求分析与模型选择
+OpenAI图像生成
+https://developers.openai.com/api/docs/guides/image-generation
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Gemini模型列表
+https://ai.google.dev/gemini-api/docs/models
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Gemini图像理解
+https://ai.google.dev/gemini-api/docs/image-understanding
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Gemini图像生成
+https://ai.google.dev/gemini-api/docs/image-generation
+
+第6章 6.4 AI详情页：需求分析与模型选择
+阿里云图像与视频理解
+https://help.aliyun.com/zh/model-studio/vision
+
+第6章 6.4 AI详情页：需求分析与模型选择
+阿里云OpenAI兼容接口
+https://help.aliyun.com/zh/model-studio/compatibility-of-openai-with-dashscope
+
+第6章 6.4 AI详情页：需求分析与模型选择
+阿里云API Key
+https://help.aliyun.com/zh/model-studio/get-api-key
+
+第6章 6.4 AI详情页：需求分析与模型选择
+阿里云首次API调用
+https://help.aliyun.com/zh/model-studio/first-api-call-to-qwen
+
+第6章 6.4 AI详情页：需求分析与模型选择
+阿里云Qwen-Image文生图
+https://help.aliyun.com/zh/model-studio/qwen-image-api
+
+第6章 6.4 AI详情页：需求分析与模型选择
+火山方舟图片生成教程
+https://docs.volcengine.com/docs/ark/image-generation-tutorial?lang=zh
+
+第6章 6.4 AI详情页：需求分析与模型选择
+腾讯TokenHub多模态理解
+https://cloud.tencent.com/document/product/1823/130988
+
+第6章 6.4 AI详情页：需求分析与模型选择
+腾讯TokenHub模型列表
+https://cloud.tencent.com/document/product/1823/130051
+
+第6章 6.4 AI详情页：需求分析与模型选择
+百度千帆模型平台
+https://cloud.baidu.com/product-s/qianfan_home
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Qwen3-VL
+https://github.com/QwenLM/Qwen3-VL
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Qwen-Image
+https://github.com/QwenLM/Qwen-Image
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Qwen-Image-2512
+https://huggingface.co/Qwen/Qwen-Image-2512
+
+第6章 6.4 AI详情页：需求分析与模型选择
+Qwen-Image-Edit-2511
+https://huggingface.co/Qwen/Qwen-Image-Edit-2511
+
+第6章 6.4 AI详情页：需求分析与模型选择
+InternVL3.5
+https://internvl.github.io/blog/2025-08-26-InternVL-3.5/
+
+第6章 6.4 AI详情页：需求分析与模型选择
+MiniCPM-V
+https://github.com/openbmb/MiniCPM-V
+
+第6章 6.6 AI女装短视频：生成固定模特和白底服装图
+服装素材
+https://github.com/kingkk469/king-ai-courseware-materials/tree/main/courses/%E7%94%A8%20AI%20%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90%E7%94%B5%E5%95%86%E7%A9%BF%E6%90%AD%E7%9F%AD%E8%A7%86%E9%A2%91/%E7%B4%A0%E6%9D%90%E5%8C%85
+
+第6章 6.9 AI剪辑：校正字幕并输出本地视频
+剪辑技能目录
+https://github.com/kingkk469/king-ai-courseware-materials/tree/main/courses/%E7%94%A8%20ChatCut%20%E7%B2%97%E5%89%AA%E5%B9%B6%E7%94%A8%20Remotion%20%E7%94%9F%E6%88%90%E5%8A%A8%E7%94%BB%E8%A7%86%E9%A2%91/%E7%B4%A0%E6%9D%90%E5%8C%85/skills
+
+第6章 6.10 AI剪辑：生成Remotion动画并沉淀工作流
+剪辑动画课程项目目录
+https://github.com/kingkk469/king-ai-courseware-materials/tree/main/courses/%E7%94%A8%20ChatCut%20%E7%B2%97%E5%89%AA%E5%B9%B6%E7%94%A8%20Remotion%20%E7%94%9F%E6%88%90%E5%8A%A8%E7%94%BB%E8%A7%86%E9%A2%91
+
+第6章 6.6 AI女装短视频：生成固定模特和白底服装图
+Gemini 3.1 Flash Image官方模型说明
+https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-image
+
+第6章 6.6 AI女装短视频：生成固定模特和白底服装图
+Gemini 3.1 Flash Image官方模型卡
+https://deepmind.google/models/model-cards/gemini-3-1-flash-image/
